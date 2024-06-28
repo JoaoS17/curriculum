@@ -1,0 +1,40 @@
+/* Reset CSS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+  
+  body {
+    h1 {
+        font-size: 60px;
+        text-align: center;
+      }
+      
+      p,
+      li {
+        font-size: 10px;
+        line-height: 2;
+        letter-spacing: 10px;
+    
+      }
+
+    h2 {
+        font-size: 30px;
+
+
+    }
+
+
+      
+    font-size: medium;
+    font-family: "Roboto", serif;
+    color: 444;
+  }
+
+  header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+  }
